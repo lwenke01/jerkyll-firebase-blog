@@ -1,10 +1,10 @@
 {
   "hosting": {
-    "public": "_site",
+    "public": "public",
     "ignore": [
-      "**/.*",
-      "firebase.json" 
+      "firebase.json",
+      "**/.*"
+      
     ]
   }
 }
-firebase
